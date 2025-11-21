@@ -6,6 +6,6 @@
 - 😄 Pronouns: Ele/Dele 
 <div>
     <a href="https://github.com/yagorocha22" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagorocha22&layout=compact&theme=transparent"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagorocha22&show_icons=true&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagorocha22&layout=compact&theme=transparent&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagorocha22&show_icons=true&theme=transparent&locale=pt-br"/>
 </div>
