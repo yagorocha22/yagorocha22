@@ -38,6 +38,7 @@ Enquanto isso, fique à vontade para explorar meus projetos e estudos já desenv
 <div>
     <a href="https://www.instagram.com/yago_rocha18/" target="_blank"><img align="left" alt="Instagram" width="50px" src="img/icons8-instagram-velho-100.png" />
     <a href="linkedin.com/in/yago-rocha-da-costa" target="_blank"><img align="left" alt="Linkedin" width="50px" src="img/icons8-linkedin-100.png" />
+    <a href="mailto:yagorochadacosta@hotmail.com" target="_blank"><img align="left" alt="Email" width="50px" src="img/icons8-microsoft-outlook-2019-100.png" />
     <a href="#" target="_blank" disabled><img align="left" alt="Discord" width="50px" src="img/icons8-logo-discord-100.png" />
 </div>
 
