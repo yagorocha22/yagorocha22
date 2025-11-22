@@ -1,4 +1,4 @@
-<img align="right" width="200px" src="img.png">
+<img align="right" width="200px" src="img/img.png">
 </br></br></br></br></br>
 <h1 align="left">Hello, Devs!!</h1>
 
@@ -11,7 +11,7 @@ Minha frase de efeito: **"Na vida e no código, meu foco é o XP. Subindo de ní
 </br>
 
 ## 🗺️ Mapa de Conhecimento (Tech Stack) 
-<img width="150px" align="right" src="imgempe.png">
+<img width="150px" align="right" src="img/imgempe.png">
 
 ### 🛠️ Em Domínio (Habilidades Ativas)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py&perline=4)](https://skillicons.dev)
@@ -34,6 +34,53 @@ Sinta-se à vontade para entrar em contato! Você pode me encontrar aqui:
 
 Enquanto isso, fique à vontade para explorar meus projetos e estudos já desenvolvidos aqui nos repositórios. Adoro receber feedback!
 
+</br>
+<div>
+    <a href="https://www.instagram.com/yago_rocha18/" target="_blank"><img align="left" alt="Instagram" width="50px" src="img/icons8-instagram-velho-100.png" />
+    <a href="linkedin.com/in/yago-rocha-da-costa" target="_blank"><img align="left" alt="Linkedin" width="50px" src="img/icons8-linkedin-100.png" />
+    <a href="#" target="_blank" disabled><img align="left" alt="Discord" width="50px" src="img/icons8-logo-discord-100.png" />
+</div>
+
+</br></br>
+
+## 🧪 Lab de Experiência (XP) | Meus Projetos
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Projeto Mascote do Android</h3>
+      <p>Página web de estudo (Curso em Vídeo) dedicada à cronologia do Android OS e à história do seu primeiro mascote..</p>
+      <ul>
+        <li><b>Status:</b> Concluído ✅</li>
+        <li><b>Tecnologias Utilizadas:</b> <code>HTML5</code> | <code>CSS3</code>
+      </ul>
+      <b><a href="https://github.com/yagorocha22/projeto-android/tree/main" target="_blank">Repositório no GitHub</a></b> | <b><a href="https://yagorocha22.github.io/projeto-android/" target="_blank">Demo Online</a></b>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Projeto Cordel Moderno</h3>
+      <p>Projeto Front-end focado em layout responsivo, recriando o estilo poético da Literatura de Cordel com CSS e efeitos visuais (parallax).</p>
+      <ul>
+        <li><b>Status:</b> Concluído ✅</li>
+        <li><b>Tecnologias Utilizadas:</b> <code>HTML5</code> | <code>CSS3</code> </li>
+      </ul>
+      <b><a href="https://github.com/yagorocha22/projeto-cordel" target="_blank">Repositório no GitHub</a></b> | <b><a href="https://yagorocha22.github.io/projeto-cordel/" target="_blank">Demo Online</a></b>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦸🏻 Projeto X-MAN</h3>
+      <p>Projeto de Front-end com foco em interatividade e design temático dos X-Men, utilizando JavaScript para gerenciar a troca de personagens e exibir informações detalhadas.</p>
+        <ul>
+        <li><b>Status:</b> Concluído ✅</li>
+        <li><b>Tecnologias Utilizadas:</b> <code>HTML5</code> | <code>CSS3</code> | <code>JavaScript</code></li>
+      </ul>
+      <b><a href="https://github.com/yagorocha22/projeto-x-man/tree/main" target="_blank">Repositório no GitHub</a></b> | <b><a href="https://yagorocha22.github.io/projeto-x-man/" target="_blank">Demo Online</a></b>
+    </td>
+  </tr>
+</table>
+
+##
 <div>
     <a href="https://github.com/yagorocha22" >
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagorocha22&layout=compact&theme=transparent&locale=pt-br"/>
