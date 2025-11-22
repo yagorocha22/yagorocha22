@@ -1,16 +1,4 @@
 <img align="right" width="150px" style="margin-top:-20px" src="img.png">
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 <h1 align="left">Yago Rocha</h1>
 
 - 🌱 Estudando Front-end e Back-end
