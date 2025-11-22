@@ -21,7 +21,7 @@ Minha frase de efeito: **"Na vida e no código, meu foco é o XP. Subindo de ní
 ### ⚙️ Ferramentas de Suporte
 [![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea,git,github,notion&perline=4)](https://skillicons.dev)
 
-### 🖥️ 4. Ambiente Operacional
+### 🖥️ Ambiente Operacional
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,apple&perline=4)](https://skillicons.dev)
 
 
