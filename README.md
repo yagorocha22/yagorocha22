@@ -11,16 +11,19 @@ Minha frase de efeito: **"Na vida e no código, meu foco é o XP. Subindo de ní
 </br>
 
 ## 🗺️ Mapa de Conhecimento (Tech Stack) 
-<img width="150px" align="right" src="img/imgempe.png">
 
 ### 🛠️ Em Domínio (Habilidades Ativas)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py&perline=4)](https://skillicons.dev) <img width="150px" align="right" src="img/imgempe.png">
 
 ### 📚 Em Foco (Rota de Estudo)
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,php,c,cs,cpp,lua&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,php,c,cs,cpp,lua,mysql&perline=4)](https://skillicons.dev)
 
 ### ⚙️ Ferramentas de Suporte
 [![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea,git,github,notion&perline=4)](https://skillicons.dev)
+
+### 🖥️ 4. Ambiente Operacional
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,apple&perline=4)](https://skillicons.dev)
+
 
 ## 📫 Contato & Colaboração
 
