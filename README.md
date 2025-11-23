@@ -81,6 +81,15 @@ Enquanto isso, fique à vontade para explorar meus projetos e estudos já desenv
       </ul>
       <b><a href="https://github.com/yagorocha22/projeto-x-man/tree/main" target="_blank">Repositório no GitHub</a></b> | <b><a href="https://yagorocha22.github.io/projeto-x-man/" target="_blank">Demo Online</a></b>
     </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Projeto Base de Conhecimento - Pokedex</h3>
+      <p>Aplicação Front-end que simula um catálogo interativo Pokédex. Desenvolvida para praticar a busca e o consumo de dados em uma base de conhecimento organizada..</p>
+      <ul>
+        <li><b>Status:</b> Concluído ✅</li>
+        <li><b>Tecnologias Utilizadas:</b> <code>HTML5</code> | <code>CSS3</code> | <code>JavaScript</code> | <code>JSON</code> </li>
+      </ul>
+      <b><a href="https://github.com/yagorocha22/Base-de-Conhecimento" target="_blank">Repositório no GitHub</a></b> | <b><a href="https://yagorocha22.github.io/Base-de-Conhecimento/" target="_blank">Demo Online</a></b>
+    </td>
   </tr>
 </table>
 
