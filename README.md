@@ -19,7 +19,7 @@ Minha frase de efeito: **"Na vida e no código, meu foco é o XP. Subindo de ní
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,php,c,cs,cpp,lua,mysql&perline=4)](https://skillicons.dev)
 
 ### ⚙️ Ferramentas de Suporte
-[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea,git,github,notion&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea,git,github,notion,obsidian&perline=4)](https://skillicons.dev)
 
 ### 🖥️ Ambiente Operacional
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,apple&perline=4)](https://skillicons.dev)
